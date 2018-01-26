@@ -5,3 +5,15 @@ li {
     word-spacing: 0%;
     line-height:1px;
 }
+
+div.full-page{
+    border-style:solid;
+    border-width:1px;
+    padding:10px;
+}
+
+image.pic{
+    height:800px;
+    width:800px;
+
+}
