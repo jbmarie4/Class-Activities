@@ -3,19 +3,22 @@ li {
     margin-bottom:0px;
     padding:0px;
     word-spacing: 0%;
-    line-height:1px;
+    line-height:2px;
 }
 
 div.full-page{
     border-style:solid;
     border-width:1px;
-    padding:10px;
-    background-color:white;
-    width:1000px;
+    padding:20px;
+    background-color:lavender;
+    
 }
 
 body{
     background-color:lightgray;
-   
+    
 }
 
+a.link{
+    color:blue;
+}
